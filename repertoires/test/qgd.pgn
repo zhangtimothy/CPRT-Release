@@ -1,0 +1,4 @@
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"]
+[Flip "false"]
+
+1. d4 d5 2. c4 e6 {this is a comment}

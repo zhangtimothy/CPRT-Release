@@ -1,0 +1,39 @@
+{3q1rk1/p1pb1ppp/1r3n2/3pn3/2P5/Q1P1P3/P4PPP/R1B1KBNR w KQ|- CPU eval: -2.3}
+{rnbqk2r/ppp2ppp/4p3/3p4/2PPn3/P7/1PQ1PPPP/R1B1KBNR b KQkq|- black's ideas: punish unsafe king and queen,
+and lack of development}
+{r2qk2r/ppp2ppp/2b1pn2/3p4/1bP5/2N1PQ2/PP3PPP/R1B1KB1R w KQkq|- CPU eval: -3.7}
+{rnb1k2r/pp3ppp/4p3/q2p4/2Pp4/P7/1PQNPPPP/R3KB1R w KQkq|- here CPU eval is -0.5
+- blacks ideas: O-O, Nc6, dxc4}
+{r2qk2r/1ppb1ppp/2n1pn2/p2p4/2PP4/2Q1PN2/PP3PPP/R1B1KB1R b KQkq|- game is even
+- black ideas: O-O, Ne4, Nb4}
+{rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR b KQkq|- Qc2 prevents doubled pawns
+- Qc2 defends e4, preventing moves like Ne4}
+{r2q1rk1/5ppp/p7/1Qnp1b2/5B2/Pn3N2/1P2PPPP/R3KB1R w KQ|- White is losing queen}
+{r2qk2r/pppb1ppp/2n1pn2/8/QbpP4/2N1P3/PP2NPPP/R1B1KB1R w KQkq|- CPU eval: -2.4}
+{r2qk2r/pp3ppp/2n5/2Pp1b2/1P2n3/P4N2/2Q1PPPP/R1B1KB1R b KQkq|- black has no good discovered attacks here}
+{1r1q1rk1/p4ppp/8/2np4/5Q2/Pn1bPN2/1P3PPP/R1B1KB1R w KQ|- CPU eval: -9.0}
+{r2q1rk1/1p3ppp/2n5/p1Pp1b2/1P2n3/P4N2/1BQ1PPPP/R3KB1R w KQ|- bxa5 is losing for white}
+{r2qr1k1/pppb1ppp/2n1pn2/3p4/1bPP4/2N1PN2/PPQ1BPPP/R1B1K2R b KQ|- CPU says game is even}
+{2rq1rk1/1p2nppp/8/pPPp1b2/4n3/P3PN2/1BQ2PPP/R3KB1R w KQ|- end of line, position is equal}
+{5rk1/p4ppp/8/q1Pp1b2/4n3/P7/1r1NPPPP/R2QKB1R w KQ|- Mate in 9 here
+- white knight is indefensible}
+{5r2/1p3pkp/1qn5/2rp1b2/Q3n3/P3PN2/5PPP/R3KB1R w KQ|- CPU eval is -7.0 here}
+{r2qk2r/ppp2pp1/2bbpn2/7p/2B5/2N1P2Q/PP3PPP/R1B1K2R w KQkq|- CPU eval: -3.2}
+{3q1rk1/2pb1ppp/Qrn1pn2/p2p4/2PP4/2P1PN2/P4PPP/R1B1KB1R w KQ|- white's queen is trapped}
+{r2qk2r/pp1b1ppp/4pn2/2pp4/1bP5/2N1PP2/PP3P1P/R1BQKB1R w KQkq|- CPU says -3.5
+- black ideas: Bc6, O-O
+- don't take on c4}
+{r3k2r/pppbqppp/4pn2/8/1bB5/2N1PP2/PP3P1P/R1BQK2R w KQkq|- CPU eval: -2.3}
+{2r1k2r/pp3ppp/2n1b3/3p4/3N4/P7/1P2PPPP/3RKB1R w Kk|- CPU eval is 0.0}
+{5rk1/1p3ppp/2n5/2rp1b2/5Q2/P3PN2/1q1B1PPP/Rn2KB1R w KQ|- white is losing rook
+- cpu eval: -8}
+{5rk1/p4ppp/8/2Pp1b2/1q6/2n1P3/3N1PPP/n1BQKB1R w KQ|- CPU eval: -11.8
+- if white moves queen, Nc2#}
+{r3k2r/pppb1ppp/2nnpq2/3p4/2PP4/1Q2PPP1/PP5P/R1B1KBNR w KQkq|- CPU eval: -0.3}
+{r2qk2r/pp3ppp/2n5/2Pp1b2/4n3/P4N2/1PQ1PPPP/R1B1KB1R w KQkq|- black has huge lead in development
+- black ideas: Rc8, Qa5
+- white's best move is b4}
+{5rk1/1p3ppp/2n5/2rp1b2/7Q/P3PN2/1q1B1PPP/Rn2KB1R w KQ|- white is losing rook
+- cpu eval: -10}
+{rnbqk2r/pp3ppp/4p3/2pp4/2PPn3/P7/1PQ1PPPP/R1B1KBNR w KQkq|- dxc5 is white's only good move here}
+{1r3rk1/p4ppp/8/q1Pp1b2/4n3/P7/1P1NPPPP/R2QKB1R b KQ|- mate in 10 here}
