@@ -3,7 +3,7 @@
   <dontWrapJar>true</dontWrapJar>
   <headerType>gui</headerType>
   <jar>Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar</jar>
-  <outfile>C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe</outfile>
+  <outfile>CPRT.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
