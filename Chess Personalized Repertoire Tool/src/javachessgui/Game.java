@@ -532,11 +532,7 @@ public class Game {
 
     public void update_game() {
 //        System.out.println("update game called");
-        File test = new File("repertoires" + File.separator + "testpath");
-        String absolutePath = test.getAbsolutePath().substring(0, test.getAbsolutePath().lastIndexOf(File.separator));
-        initial_dir = absolutePath;
-        repertoire.path = absolutePath;
-        System.out.printf("BASE PATH: %s\nINITIAL_DIR: %S\n", absolutePath, initial_dir);
+//        System.out.printf("BASE PATH: %s\nINITIAL_DIR: %S\n", absolutePath, initial_dir);
         String[] game_buffer = new String[MAX_MOVES + 1];
 
         game_buffer[0] = "*";
@@ -1174,6 +1170,7 @@ public class Game {
 
     public Game(Stage set_s, Board set_b) {
 
+
         book_file = new MyFile("book.txt");
 
         book = new Hashtable();
@@ -1182,6 +1179,12 @@ public class Game {
         s = set_s;
         b = set_b;
         repertoire = new Repertoire();
+
+        // setup initial directory
+        File test = new File("repertoires" + File.separator + "testpath");
+        String absolutePath = test.getAbsolutePath().substring(0, test.getAbsolutePath().lastIndexOf(File.separator));
+        initial_dir = absolutePath;
+        repertoire.path = absolutePath;
 
         Button open_pgn_button = new Button();
         open_pgn_button.setText("Open PGN");
