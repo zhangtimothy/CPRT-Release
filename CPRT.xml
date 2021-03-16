@@ -22,6 +22,6 @@
     <maxVersion></maxVersion>
     <jdkPreference>preferJre</jdkPreference>
     <runtimeBits>64/32</runtimeBits>
-    <opt>--module-path &quot;C:\tools\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml</opt>
+    <opt>--module-path &quot;Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml</opt>
   </jre>
 </launch4jConfig>
