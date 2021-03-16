@@ -532,7 +532,7 @@ public class Game {
 
     public void update_game() {
 //        System.out.println("update game called");
-        File test = new File("testpath");
+        File test = new File("repertoires" + File.separator + "testpath");
         String absolutePath = test.getAbsolutePath().substring(0, test.getAbsolutePath().lastIndexOf(File.separator));
         initial_dir = absolutePath;
         repertoire.path = absolutePath;
