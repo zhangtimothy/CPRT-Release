@@ -2736,7 +2736,7 @@ public class Board {
 
 //            main_box.getChildren().add(list);
 
-            engine_text.setMaxHeight(200);
+            engine_text.setMaxHeight(130);
 
             engine_text.setFont(engine_font);
             vertical_box.getChildren().add(engine_text);

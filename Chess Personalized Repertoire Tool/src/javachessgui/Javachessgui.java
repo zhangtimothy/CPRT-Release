@@ -75,9 +75,9 @@ public class Javachessgui extends Application {
         init_app();
 
         // set icon for app
-        primaryStage.getIcons().add(new Image("file:src/javachessgui/resources/icon.png"));
+        primaryStage.getIcons().add(new Image("file:Chess Personalized Repertoire Tool/src/javachessgui/resources/CPRT.png"));
 
-        primaryStage.setTitle("Chess: Personalized Repertoire Tool");
+        primaryStage.setTitle("Chess Personalized Repertoire Tool");
         primaryStage.setX(0);
         primaryStage.setY(0);
 
@@ -96,9 +96,9 @@ public class Javachessgui extends Application {
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
 
-        system_message("Welcome!", 2000); // for some reason removing this breaks the program
+        system_message("Welcome to CPRT!", 2000); // for some reason removing this breaks the program
 
-        System.out.println("application started");
+//        System.out.println("application started");
     }
 
     @Override
@@ -106,13 +106,13 @@ public class Javachessgui extends Application {
 
         gui.shutdown();
 
-        System.out.println("application stopped");
+//        System.out.println("application stopped");
     }
 
     private void init_app() {
         Board.init_class();
 
-        System.out.println("application initialized");
+//        System.out.println("application initialized");
     }
 
     public static void main(String[] args) {

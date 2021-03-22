@@ -1131,12 +1131,12 @@ public class Game {
         ClipboardContent content = new ClipboardContent();
         content.putString(content_as_string);
         clip.setContent(content);
-        Javachessgui.system_message("Content copied to clipboard:\n\n" + content_as_string, 5000);
+        Javachessgui.system_message("Content copied to clipboard:\n\n" + content_as_string, 3000);
     }
 
     private String get_content() {
         String content_as_string = clip.getString();
-        Javachessgui.system_message("Content copied from clipboard:\n\n" + content_as_string, 5000);
+        Javachessgui.system_message("Content copied from clipboard:\n\n" + content_as_string, 3000);
         return content_as_string;
     }
 
@@ -1523,7 +1523,7 @@ public class Game {
 
         save_as_pgn_button.setMinHeight(deep_height);
         save_pgn_box.getChildren().add(save_as_pgn_button);
-        pgn_name_text.setMinWidth(290);
+        pgn_name_text.setMinWidth(368);
         pgn_name_text.setStyle("-fx-font-size: "
                 + (deep_height - 18)
                 + "px;-fx-font-family: monospace;-fx-font-weight: bold;");
@@ -1554,13 +1554,17 @@ public class Game {
 
         pgn_text.setStyle("-fx-display-caret: false;");
 
-        pgn_text.setMinHeight(224);
+        pgn_text.setMinHeight(190);
 
         pgn_text.setOnMouseClicked(mouseHandler);
 
         blist.setOnMouseClicked(mouseHandlerBook);
 
         vertical_box.getChildren().add(pgn_text);
+        VBox bottomSpacer = new VBox();
+        bottomSpacer.setMinHeight(14);
+        bottomSpacer.setMaxHeight(14);
+        vertical_box.getChildren().add(bottomSpacer);
 
         list.setOnMouseClicked(new EventHandler<Event>() {
 
