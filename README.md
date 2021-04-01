@@ -5,8 +5,9 @@ Hi! This is a program intended to help with creating, memorizing, and expanding 
   
 I created this project because I wanted a personalizable way to apply repetition learning to memorize openings, and wasn't able to find a solution online. 
   
-Check out the video below for a demonstration of features, as well as the intended way to use it(or at least the way which I've found to be the most useful).  
-Demo video link (3 min watch): INSERT LINK HERE
+Check out the demo video below for a demonstration of features, as well as the intended way to use it(or at least the way which I've found to be the most useful).  
+Demo video link (3 min watch): INSERT LINK HERE  
+Installation video link: INSERT LINK HERE  
 
 Features:
 - Repertoires start empty, add only the lines that you want to learn
