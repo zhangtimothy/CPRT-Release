@@ -4,6 +4,7 @@ Chess: Personalized Repertoire Trainer
 Hi! This is an application intended to help with creating, memorizing, and gradually expanding your opening repertoire.
   
 Check out this demo video:        LINK HERE
+
 Here's an installation tutorial:  LINK HERE 
 
 Features:
