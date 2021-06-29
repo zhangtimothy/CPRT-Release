@@ -18,6 +18,5 @@ Features:
 
 I hope you find this a useful way to improve your openings!
 
-Credits: 
-I used the Chess GUI made by javachessgui as a starting point, and heavily modified it to create this project.  
-Here's a link to the original repo: https://github.com/javachessgui/javachessgui
+Credits:
+I used this cool Chess GUI made by javachessgui as a starting point, check it out here: https://github.com/javachessgui/javachessgui
