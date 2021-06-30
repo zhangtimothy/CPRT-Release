@@ -3,9 +3,9 @@ Chess: Personalized Repertoire Trainer
 
 Hi! This is an application intended to help with creating, memorizing, and gradually expanding your opening repertoire.
   
-Check out this demo video:        LINK HERE
+Check out this demo video:        https://youtu.be/D4QOOAh4cYQ
 
-Here's an installation tutorial:  LINK HERE 
+Here's an installation tutorial:  https://youtu.be/REz-Jdg4lo4
 
 Features:
 - Repertoires start empty, add only the lines that you want to learn
