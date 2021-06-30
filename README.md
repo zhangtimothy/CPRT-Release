@@ -1,5 +1,5 @@
 # CPRT-Release
-Chess: Personalized Repertoire Trainer
+Chess: Personalized Repertoire Tool
 
 Hi! This is an application intended to help with creating, memorizing, and gradually expanding your opening repertoire.
   
