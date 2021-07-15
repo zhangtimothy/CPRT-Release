@@ -1,0 +1,36 @@
+d4
+	eval
+	0
+	is_analyzed
+	false
+	count
+	4
+	notation
+	-1
+Nf3
+	eval
+	0
+	is_analyzed
+	false
+	count
+	49
+	notation
+	-1
+f4
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	1
+Nc3
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	1

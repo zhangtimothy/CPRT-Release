@@ -1,0 +1,9 @@
+g6
+	eval
+	0
+	is_analyzed
+	false
+	count
+	6
+	notation
+	-1

@@ -1,0 +1,27 @@
+Bb4
+	eval
+	0
+	is_analyzed
+	false
+	count
+	1
+	notation
+	-1
+a6
+	eval
+	0
+	is_analyzed
+	false
+	count
+	12
+	notation
+	-1
+a5
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	1

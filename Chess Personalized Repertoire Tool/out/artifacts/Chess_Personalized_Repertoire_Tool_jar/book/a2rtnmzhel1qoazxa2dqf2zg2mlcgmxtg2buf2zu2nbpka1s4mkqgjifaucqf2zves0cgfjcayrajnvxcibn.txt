@@ -1,0 +1,36 @@
+O-O-O
+	eval
+	0
+	is_analyzed
+	false
+	count
+	1
+	notation
+	-1
+Rc8
+	eval
+	0
+	is_analyzed
+	false
+	count
+	3
+	notation
+	3
+O-O
+	eval
+	0
+	is_analyzed
+	false
+	count
+	1
+	notation
+	-1
+Nxd4
+	eval
+	0
+	is_analyzed
+	false
+	count
+	1
+	notation
+	-1

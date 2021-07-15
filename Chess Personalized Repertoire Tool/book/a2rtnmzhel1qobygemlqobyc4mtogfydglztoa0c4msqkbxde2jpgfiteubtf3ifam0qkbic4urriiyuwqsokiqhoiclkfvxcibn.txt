@@ -1,0 +1,18 @@
+Qxb7
+	eval
+	0
+	is_analyzed
+	false
+	count
+	1
+	notation
+	0
+g3
+	eval
+	0
+	is_analyzed
+	false
+	count
+	2
+	notation
+	-1

@@ -12,10 +12,19 @@ e4
 	0
 	is_analyzed
 	false
+	count
+	9
+	notation
+	-1
+f4
+	eval
+	0
+	is_analyzed
+	false
 	notation
 	-1
 	count
-	7
+	2
 Nh3
 	eval
 	0

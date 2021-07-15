@@ -1,0 +1,126 @@
+Nf6
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	4
+Nc6
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	11
+f6
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	1
+f5
+	eval
+	0
+	is_analyzed
+	false
+	count
+	4
+	notation
+	-1
+c6
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	10
+c5
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	3
+	count
+	22
+ xe4
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	1
+e6
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	22
+e5
+	eval
+	0
+	is_analyzed
+	false
+	count
+	61
+	notation
+	5
+d6
+	eval
+	0
+	is_analyzed
+	false
+	count
+	6
+	notation
+	-1
+g5
+	eval
+	0
+	is_analyzed
+	false
+	count
+	4
+	notation
+	-1
+d5
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	4
+	count
+	32
+a6
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	2
+a5
+	eval
+	0
+	is_analyzed
+	false
+	count
+	4
+	notation
+	2

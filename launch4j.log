@@ -1,0 +1,397 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "C:\tools\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe"
+Args length:	173/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	287/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	287/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" -add-modules=javafx.controls,javafx.fxml -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	285/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.007.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Check launcher:	C:\Program Files\Java\jre1.8.0_191\bin\javaw.exe (OK)
+Match:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	287/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Tim\Documents\GitHub\CPRT\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Tim\Documents\GitHub\CPRT\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.009.000_004
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Ignore:		1.008.000_251
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Ignore:		1.008.000_202
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Match:		1.011.000_002
+Check:		SOFTWARE\JavaSoft\JDK\12.0.1
+Check launcher:	C:\Program Files\Java\jdk-12.0.1\bin\javaw.exe (OK)
+Match:		1.012.000_001
+Runtime used:	1.012.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-12.0.1\bin\javaw.exe
+Launcher args:	--module-path "\Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\Tim\Documents\GitHub\CPRT\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	290/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Tim\Documents\GitHub\CPRT\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Tim\Documents\GitHub\CPRT\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.009.000_004
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_251
+Ignore:		1.008.000_251
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_202
+Ignore:		1.008.000_202
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\11.0.2
+Check launcher:	C:\Program Files\Java\jdk-11.0.2\bin\javaw.exe (OK)
+Match:		1.011.000_002
+Check:		SOFTWARE\JavaSoft\JDK\12.0.1
+Check launcher:	C:\Program Files\Java\jdk-12.0.1\bin\javaw.exe (OK)
+Match:		1.012.000_001
+Runtime used:	1.012.000_001 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-12.0.1\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\Tim\Documents\GitHub\CPRT\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	289/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.009.000_004
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	288/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.009.000_004
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	288/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.009.000_004
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	288/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.009.000_004
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	288/32768 chars
+Exit code:	0
+
+
+Version:	3.14
+CmdLine:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\CPRT.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\.
+Java min ver:	1.009.000_004
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_191
+Ignore:		1.008.000_191
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	--module-path "Chess Personalized Repertoire Tool\javafx-sdk-11.0.2\lib" --add-modules javafx.controls,javafx.fxml  -jar "C:\Users\Timothy\Documents\GitHub\Chess-Personalized-Repertoire-Tool\Chess Personalized Repertoire Tool\out\artifacts\CPRT_jar\Chess Personalized Repertoire Tool.jar"
+Args length:	288/32768 chars
+Exit code:	0

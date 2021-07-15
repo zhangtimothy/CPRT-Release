@@ -1,0 +1,54 @@
+exd5
+	eval
+	0
+	is_analyzed
+	false
+	count
+	23
+	notation
+	-1
+h3
+	eval
+	0
+	is_analyzed
+	false
+	count
+	1
+	notation
+	-1
+Ne2
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	1
+Nf3
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	9
+Ke2
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	2
+Nh3
+	eval
+	0
+	is_analyzed
+	false
+	notation
+	-1
+	count
+	6

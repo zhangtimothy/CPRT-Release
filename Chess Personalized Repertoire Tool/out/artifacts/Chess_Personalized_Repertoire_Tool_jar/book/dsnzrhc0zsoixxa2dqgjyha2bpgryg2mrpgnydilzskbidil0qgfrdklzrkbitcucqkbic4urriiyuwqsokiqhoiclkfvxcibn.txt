@@ -1,0 +1,9 @@
+Qxc3
+	eval
+	0
+	is_analyzed
+	false
+	count
+	7
+	notation
+	-1

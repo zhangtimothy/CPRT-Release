@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Chess Personalized Repertoire Tool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chess_Personalized_Repertoire_Tool_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Chess Personalized Repertoire Tool.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Chess Personalized Repertoire Tool" />
+      </element>
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="javachessgui" />
+      <element id="module-source" name="Chess Personalized Repertoire Tool" />
+      <element id="artifact" artifact-name="CPRT:jar" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
