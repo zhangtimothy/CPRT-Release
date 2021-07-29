@@ -11,7 +11,7 @@ Features:
 - Play lines on the board, and save them to the current repertoire with one click
 - Training mode is a great way to learn: the CPU plays random responses from within your repertoire, and you must respond with moves that are saved in your repertoire
 - Save comments for each position, to help you remember what your plans are in each position
-- Much more, seriously watch the demo video :)
+- Much more, see the demo video :)
 
 I hope you find this a useful way to improve your openings!
 
